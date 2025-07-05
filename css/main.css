@@ -1,10 +1,10 @@
 ::-moz-selection {
-	background-color: #f5204b;
+	background-color: #794C2C;
 	color: #fff
 }
 
 ::selection {
-	background-color: #f5204b;
+	background-color: #794C2C;
 	color: #fff
 }
 
@@ -72,7 +72,7 @@ h3 {
 }
 
 i {
-	color: #f5204b
+	color: #794C2C
 }
 
 h1,
@@ -98,7 +98,7 @@ body {
 }
 
 .banner-area {
-	background: url(../img/banner-bg.jpg) no-repeat center center/cover
+	background: url(../img/banner-bg.png) no-repeat center center/cover
 }
 
 .banner-area .overlay-bg {
@@ -116,7 +116,7 @@ body {
 	font-weight: 600;
 	line-height: 1.2em;
 	margin-bottom: 20px;
-	color: #f5204b
+	color: #794C2C
 }
 
 @media (max-width:767px) {
@@ -143,15 +143,15 @@ footer {
 }
 
 .footer-bottom .footer-text i {
-	color: #f5204b
+	color: #794C2C
 }
 
 .footer-bottom .footer-text a {
-	color: #f5204b
+	color: #794C2C
 }
 
 .footer-bottom .footer-text a:hover {
-	color: #f5204b
+	color: #794C2C
 }
 
 .section-top-border {
