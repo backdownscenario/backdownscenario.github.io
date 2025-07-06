@@ -6,5 +6,5 @@ $(document).ready(function(){
 	header_height 		 = $(".default-header").height(),
 	fitscreen 			 = window_height - header_height;
 
-	$(".fullscreen").css("height", window_height * 0.66)
+	$(".fullscreen").css("height", window_height * 0.50)
  });
