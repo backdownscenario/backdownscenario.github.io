@@ -82,7 +82,15 @@ i {
 }
 
 .section-gap {
-	padding: 20px 0;
+	padding: 40px 0;
+}
+
+.section-gap .row {
+    margin-bottom: 60px;
+}
+
+.section-gap .row:last-child {
+    margin-bottom: 0;
 }
 
 .banner-area {
